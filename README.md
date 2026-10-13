@@ -25,3 +25,7 @@ The extension runs automatically when you visit YouTube. Keep the extracted fold
 ## Disable or remove
 
 Open `brave://extensions` or `chrome://extensions` and find **YouTube Lite Popup Blocker**. Use its toggle to disable it, or click **Remove** to uninstall it. Reload your YouTube tabs afterwards.
+
+## License
+
+Free for personal and other noncommercial use under the [PolyForm Noncommercial License 1.0.0](LICENSE). Commercial use requires a separate paid license from Christopher Manzi; see [Commercial licensing](COMMERCIAL-LICENSE.md).
