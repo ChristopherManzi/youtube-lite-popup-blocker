@@ -1,0 +1,13 @@
+{
+  "name": "youtube-lite-popup-blocker",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Dismiss recurring YouTube Premium upgrade dialogs in Chrome and Brave.",
+  "license": "MIT",
+  "scripts": {
+    "test": "node --check extension/content.js && node tests/dialogs.cjs"
+  },
+  "devDependencies": {
+    "playwright": "1.62.1"
+  }
+}

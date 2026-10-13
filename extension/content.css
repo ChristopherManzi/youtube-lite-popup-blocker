@@ -1,0 +1,6 @@
+[data-yt-lite-blocked="true"],
+[data-yt-lite-backdrop="true"] {
+  display: none !important;
+  visibility: hidden !important;
+  pointer-events: none !important;
+}
